@@ -12,7 +12,7 @@ If a player wins, the game will display a message congratulating the winner. If 
 
 
 Technologies Used-->
-Board Battle is a web-based game created using HTML, CSS, and JavaScript.
+Board Battle is a web-based game created using REACT.
 
 Future Enhancement-->
 Future enhancements to Board Battle may include:
